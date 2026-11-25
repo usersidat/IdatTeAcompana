@@ -1,0 +1,10 @@
+{
+  "description": "Centraliza las solicitudes académicas y administrativas de estudiantes IDAT, con seguimiento de tickets, respuestas, notificaciones y herramientas de gestión para asesores.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
